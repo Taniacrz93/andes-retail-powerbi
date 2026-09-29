@@ -84,4 +84,4 @@ El archivo `Andes_Retail_Analysis.pbix` contiene el reporte desarrollado en Powe
 ## 👩‍💻 Autora
 
 **Tania Cruz**  
-Economista | Data Analyst
+ Data Analyst
